@@ -1,0 +1,4 @@
+slash
+growl
+ember
+flamethrower
