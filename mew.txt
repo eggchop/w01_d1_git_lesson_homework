@@ -1,4 +1,1 @@
-psychic
-swift
-ice beam
-agility
+sleep
